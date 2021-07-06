@@ -1,0 +1,1737 @@
+@media (min-width: 320px) and (max-width :576px) {
+
+    /*------------------- banner part css start----------------------- */
+    .slider-text {
+        padding-top: calc(50vh - 170px);
+
+    }
+
+    .slider-text button {
+        padding: 4px 10px;
+        margin-top: 15px;
+    }
+
+    .menu img {
+        width: 60%;
+        padding-left: 15px;
+    }
+
+    .slider-text .content h2::after {
+        width: 35%;
+    }
+
+    .cf-nav-sticky {
+        padding: 0;
+    }
+
+    /*------------------- banner part css end----------------------- */
+
+
+    /* ----------------about us part css start------------------- */
+    .about-us {
+        padding: 25px 0 0;
+    }
+
+    .col-left {
+        height: 400px;
+        background-size: auto 100%;
+        background-position: center;
+        right: 0;
+        bottom: 0;
+    }
+
+    .col-left img {
+        bottom: 35px;
+        right: 15%;
+        width: 190px;
+    }
+
+    .about-us .col-right {
+        padding: 0 0 0px 0px;
+    }
+
+    .about-us .col-right h2 {
+        margin-left: 80px;
+        margin-left: 115px;
+        font-size: 28px;
+        line-height: 36px;
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
+    .about-us .col-right h3 {
+        margin-left: 88px;
+    }
+
+    .about-us .col-right img {
+        margin-left: 164px;
+    }
+
+    .about-us .col-right .phone p:nth-child(2),
+    .about-us .col-right .days p:nth-child(2),
+    .about-us .col-right .hours p:nth-child(2) {
+        font-size: 20px;
+        line-height: 10px;
+        padding-bottom: 15px;
+    }
+
+    .foreground {
+        top: 47px;
+        width: 100%;
+    }
+
+    /* ----------------about us part css end------------------- */
+    /* ----------------testmonial part css start------------------- */
+    .testimonial-slider-arrows .testimonial-left {
+        top: 95%;
+        left: 35%;
+    }
+
+    .testimonial-slider-arrows .testimonial-right {
+        top: 95%;
+        right: 35%;
+
+    }
+
+    .star {
+        padding-top: 15px;
+    }
+
+    .content h2 {
+        margin-top: 0;
+    }
+
+    .testimonial .headline {
+        font-size: 15px;
+        padding: 15px 0 10px;
+    }
+
+    .testimonial h3 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .testimonial {
+        position: relative;
+        padding: 25px 0 90px;
+        background: #fff;
+    }
+
+    /* ----------------testmonial part css end------------------- */
+
+    /*----------------------- book a table part css start----------------*/
+    #full-book {
+        left: 0;
+        top: 60px;
+        z-index: 9999;
+    }
+
+    .book-table {
+        padding-bottom: 340px;
+    }
+
+    .book-table .content h2 {
+        font-size: 30px;
+        line-height: 35px;
+        margin-top: 0;
+    }
+
+    .book-table .content h3 {
+        font-size: 30px;
+        line-height: 30px;
+        padding-bottom: 0;
+        margin-top: 0;
+    }
+
+    .book-table .from-part .content {
+        margin: auto;
+        padding: 0 30px;
+        width: 92%;
+        top: 0;
+        left: 30px;
+        transform: translate(0, 0%);
+    }
+
+
+    .book-table .booked-table {
+        padding: 65px 0 85px;
+        clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 100%, 0 100%);
+    }
+
+    .book-table .booked-table {
+        padding: 65px 0 85px;
+        clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 100%, 0 100%);
+    }
+
+
+    /*----------------------- book a table part css end----------------*/
+
+    /* ----------------------special part css start-------------------- */
+    #full-special {
+        height: 400px;
+        margin-top: 0;
+    }
+
+    #full-special .foreground {
+        position: absolute;
+        right: 0;
+    }
+
+    .content h2 {
+        font-size: 30px;
+        margin-top: 70px;
+        line-height: 36px;
+
+    }
+
+    .special .content h3 {
+        font-size: 30px;
+        line-height: 30px;
+        padding-bottom: 0px;
+    }
+
+    .special .content .price {
+        font-size: 20px;
+        line-height: 60px;
+    }
+
+    #section1 {
+        min-height: 350px;
+    }
+
+    #section1 .content {
+        left: 0;
+        top: 0;
+    }
+
+    #section1 .content h2 {
+        font-size: 30px;
+        line-height: 36px;
+    }
+
+    #section1 .content h3 {
+        font-size: 30px;
+        line-height: 30px;
+        padding-bottom: 0;
+    }
+
+    #section1 .foreground img {
+        width: 80px;
+        padding: 15px 0;
+    }
+
+    #section1 .content p {
+        padding: 0 5px;
+    }
+
+    #section1 .content .price {
+        font-size: 20px;
+        line-height: 40px;
+    }
+
+    .menu-category button {
+        display: inline-block;
+        padding: 3px 10px;
+        margin-top: 15px;
+        font-size: 16px
+    }
+
+    .special-menu-tabs .col-lefts h3 {
+        font-size: 25px;
+        line-height: 30px;
+        font-weight: 500;
+    }
+
+    .menu-category {
+        padding-bottom: 25px;
+    }
+
+    .special-menu-tabs .col-lefts {
+        margin-top: 0px;
+    }
+
+    .special-menu-tabs-master {
+        padding: 0 0;
+    }
+
+    /* ----------------------special part css end-------------------- */
+
+    /*------------------- chefs part css start------------------------ */
+
+    .chefs .content h2 {
+        font-size: 30px;
+        line-height: 36px;
+    }
+
+    .chefs .content h3 {
+        font-size: 28px;
+        line-height: 30px;
+    }
+
+    /*------------------- chefs part css end------------------------ */
+    /* -------------------newsletter part css start----------------- */
+    .newsletter .left_part h2 {
+        font-size: 30px;
+        line-height: 36px;
+        margin-top: 0;
+    }
+
+    .newsletter .left_part h3 {
+        font-size: 28px;
+        line-height: 30px;
+        padding-bottom: 0;
+    }
+
+    .newsletter .left_part p {
+        font-size: 17px;
+        line-height: 28px;
+        letter-spacing: 2px;
+        padding: 20px 10px;
+    }
+
+    .newsletter .content .form-control {
+        width: 160px;
+        height: 50px;
+        background: #000;
+        border-right: none;
+        margin-bottom: 10px;
+        border: 2px solid #000;
+        height: 50px;
+    }
+
+    .newsletter .content .btn {
+        padding: 0 19px;
+        margin-left: 80px;
+    }
+
+    /* -------------------newsletter part css start----------------- */
+    /*------------------------ footer part css start---------------------- */
+
+    .footer .logo {
+        font-size: 40px;
+        line-height: 40px;
+        padding-bottom: 25px;
+    }
+
+    .footer .social ul li ul li {
+        display: inline-block;
+        padding: 24px 9px;
+    }
+
+    .bottom-left {
+        text-align: center;
+    }
+
+    /*------------------------ footer part css end---------------------- */
+
+    /* ------------------menu page css start---------------------------- */
+    #menupage_part #full-special {
+        height: 350px;
+    }
+
+    /* ------------------menu page css end---------------------------- */
+
+    /*--------------------- about us page css start -----------------------*/
+    #aboutus_page .col-left {
+        bottom: 0;
+    }
+
+    #aboutus_page #full-special {
+        height: 350px;
+        margin-top: 0;
+    }
+
+    #aboutus_page .about-us .col-right {
+        padding: 0;
+        padding-top: 30px;
+    }
+
+    /*--------------------- about us page css end -----------------------*/
+
+    /* -----------------------our chefs page css start------------------------- */
+    #ourchefs_page #full-special {
+        height: 350px;
+    }
+
+    #ourchefs_page .content h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    #ourchefs_page .special .content h3 {
+        font-size: 30px;
+        line-height: 15px;
+        padding-bottom: 0;
+    }
+
+    #ourchefs_page .foreground {
+        right: 0px;
+    }
+
+    #ourchefs_page .chefs {
+        padding: 0;
+    }
+
+    /* -----------------------our chefs page css end------------------------- */
+    /*--------------------- contact us page css start--------------------- */
+    #contactus_page #full-special {
+        height: 350px;
+    }
+
+    #contactus_page .foreground {
+        right: 0;
+    }
+
+    #contact_form .details .phone,
+    #contact_form .details .mail {
+        margin-bottom: 20px;
+    }
+
+    #contact_form .details {
+        padding: 30px 0;
+    }
+
+    #contact_form .form p {
+        font-size: 19px;
+        padding-bottom: 5px;
+    }
+
+    #contact_form .form {
+        padding-top: 50px;
+        padding-bottom: 10px;
+    }
+
+    /*--------------------- contact us page css end--------------------- */
+    /*------------------- 404 error page css start ---------------------*/
+    #errorpage #full-special {
+        height: 350px;
+    }
+
+    #errorpage .broken-left {
+        text-align: center;
+        margin-top: -20px;
+        padding-bottom: 0;
+        padding-left: 0;
+    }
+
+    #errorpage .broken-left img {
+        width: 90%;
+    }
+
+    #errorpage .foreground {
+        right: 0;
+    }
+
+    #errorpage .broken-right {
+        text-align: center;
+        padding: 30px 65px;
+    }
+
+    /*------------------- 404 error page css end ---------------------*/
+}
+
+@media (min-width: 576px) and (max-width :768px) {
+
+    /*------------------- banner part css start----------------------- */
+    .slider-text {
+        padding-top: calc(50vh - 100px);
+        margin-left: -15px;
+        margin-right: -80px;
+    }
+
+    .slider-text .content p {
+        margin-right: -68px;
+    }
+
+    .cf-nav-sticky {
+        padding: 0 0;
+    }
+
+    /*------------------- banner part css end----------------------- */
+
+    /*-------------------- about us css start----------------- */
+
+    .col-left {
+        height: 680px;
+        background-size: auto 100%;
+        background-position: center;
+        right: 0;
+    }
+
+    .col-left img {
+        bottom: 65px;
+        width: 250px;
+        right: 15%;
+    }
+
+    .about-us .col-right h2 {
+        font-size: 30px;
+        line-height: 36px;
+        margin-left: 160px;
+    }
+
+    .about-us .col-right h3 {
+        margin-left: 135px;
+    }
+
+    .about-us .col-right img {
+        margin-left: 221px;
+    }
+
+    .about-us .col-right .headline {
+        padding-top: 5px;
+    }
+
+    .col-left {
+        bottom: 0;
+    }
+
+    /*-------------------- about us css end----------------- */
+    /*-------------------- special part css start----------------- */
+    #full-special {
+        top: 0;
+    }
+
+    .special .content h2 {
+        font-size: 35px;
+        line-height: 55px;
+
+    }
+
+    .foreground .content {
+        text-align: center !important;
+        padding-bottom: -70px;
+    }
+
+    .special .content h3 {
+        font-size: 35px;
+        line-height: 15px;
+        padding-bottom: 15px;
+    }
+
+    #section1 .content {
+        left: 0;
+    }
+
+    #section1 .content h3 {
+        font-size: 35px;
+        line-height: 15px;
+        padding-bottom: 10px;
+    }
+
+    .foreground img {
+        width: 80px;
+        padding: 10px 0;
+        z-index: 99;
+    }
+
+    #section1 {
+        min-height: 350px;
+    }
+
+    #section1 .content {
+        left: 0;
+    }
+
+    #section1 .content p {
+        padding: 0 5px;
+
+    }
+
+    #section1 .content .price {
+        font-size: 21px;
+        line-height: 25px;
+    }
+
+    .menu-category button {
+        display: inline-block;
+        padding: 3px 10px;
+        margin-top: 15px;
+        font-size: 16px
+    }
+
+    .special-menu-tabs .col-lefts h3 {
+        font-size: 25px;
+        line-height: 30px;
+        font-weight: 500;
+    }
+
+    .menu-category {
+        padding-bottom: 25px;
+        text-align: center;
+    }
+
+    #section1 .content h3 {
+        font-size: 35px;
+        line-height: 15px;
+        padding-bottom: 10px;
+    }
+
+    .special-menu-tabs .col-lefts {
+        margin-top: 0px;
+    }
+
+    .special-menu-tabs-master {
+        padding: 0 0;
+    }
+
+    /*-------------------- special part css end----------------- */
+    /*-------------------- testmonial part css start----------------- */
+    .testimonial h3 {
+        font-size: 30px;
+        line-height: 30px;
+        padding-bottom: 0;
+    }
+
+
+    .content h2 {
+        margin-top: 0;
+    }
+
+    .testimonial .headline {
+        font-size: 15px;
+        padding: 15px 0 10px;
+    }
+
+    .testimonial {
+        position: relative;
+        padding: 25px 0 90px;
+        background: #fff;
+    }
+
+    .testimonial h2 {
+        font-size: 30px;
+        line-height: 36px;
+    }
+
+    .testimonial-slider-arrows .testimonial-left {
+        top: 95%;
+        left: 37%;
+    }
+
+    .testimonial-slider-arrows .testimonial-right {
+        top: 95%;
+        right: 37%;
+
+    }
+
+    /*-------------------- testmonial part css end----------------- */
+
+    /* -------------------book a table part css start----------------------- */
+    .book-table {
+        padding-bottom: 360px;
+    }
+
+    .book-table .from-part .content {
+        margin: auto;
+        padding: 12px;
+        width: 90%;
+        top: 0;
+        left: 8%;
+        transform: translate(0, 0%);
+    }
+
+    .book-table .content h2 {
+        font-size: 30px;
+        line-height: 35px;
+        margin-top: 0;
+    }
+
+    .book-table .content h3 {
+        font-size: 30px;
+        line-height: 30px;
+        padding-bottom: 0;
+    }
+
+    .book-table .booked-table {
+        padding: 65px 0 85px;
+        clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 100%, 0 100%);
+    }
+
+    #full-book {
+        left: 0;
+        top: 60px;
+        z-index: 9999;
+    }
+
+    /*------------------- chefs part css start------------------------ */
+    .chefs .content {
+        padding-top: 0;
+    }
+
+    .chefs .content h2 {
+        font-size: 30px;
+        line-height: 36px;
+    }
+
+    .chefs .content h3 {
+        font-size: 28px;
+        line-height: 30px;
+    }
+
+    /*------------------- chefs part css end------------------------ */
+    /*------------------ about us page css start ------------------*/
+    #aboutus_page #full-special {
+        height: 400px;
+    }
+
+    #aboutus_page .special .content h3 {
+        font-size: 45px;
+        line-height: 35px;
+
+    }
+
+    #aboutus_page .special .content h2 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+
+    #aboutus_page .foreground img {
+        padding: 10px 0;
+    }
+
+    #aboutus_page .foreground .content {
+        margin-bottom: 0;
+    }
+
+    #aboutus_page .col-left {
+        bottom: 0;
+    }
+
+    #aboutus_page .about-us .col-right h3 {
+        line-height: 35px;
+        font-size: 35px;
+        padding-left: 50px;
+    }
+
+    /*------------------ about us page css end ------------------*/
+    /*------------------ menu page css start ------------------*/
+    #menupage_part #full-special {
+        height: 400px;
+    }
+
+    #menupage_part .special .content h3 {
+        font-size: 45px;
+        line-height: 35px;
+        padding-bottom: 0;
+    }
+
+    /*------------------ menu page css end ------------------*/
+
+    /*----------------- our chefs part css start-------------------- */
+
+    #ourchefs_page #full-special {
+        height: 400px;
+    }
+
+    #ourchefs_page .content h2 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+
+    #ourchefs_page .special .content h3 {
+        font-size: 45px;
+        line-height: 35px;
+        padding-bottom: 0;
+    }
+
+    /*----------------- our chefs part css end-------------------- */
+
+    /* ---------------------contact us page css start------------------ */
+    #contactus_page #full-special {
+        height: 400px;
+    }
+
+    #contactus_page .foreground .content {
+        margin-bottom: 0;
+    }
+
+    #contactus_page .special .content h2 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+
+    #contactus_page .special .content h3 {
+        font-size: 45px;
+        line-height: 35px;
+        padding-bottom: 15px;
+    }
+
+    #contactus_page.foreground img {
+        width: 100px;
+        padding: 0;
+    }
+
+    /* ---------------------contact us page css end------------------ */
+    /* --------------------404 error page css start ----------------------*/
+    #errorpage #full-special {
+        height: 380px;
+    }
+
+    #errorpage .special .content h2 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+
+    #errorpage .special .content h3 {
+        font-size: 45px;
+        line-height: 35px;
+        padding-bottom: 15px;
+    }
+
+    #errorpage .broken-right {
+        text-align: center;
+        padding: 40px 0 70px;
+    }
+
+    #errorpage .broken-right p {
+        line-height: 60px;
+        font-size: 40px;
+        padding-bottom: 15px;
+    }
+
+    #errorpage .broken-right p:nth-child(2) {
+        padding: 0 20px 20px 20px;
+    }
+
+    #errorpage .all-btn {
+        margin: auto;
+        cursor: pointer;
+    }
+
+    #errorpage .broken-left {
+        margin-top: -30px;
+        padding-bottom: 0;
+        padding-left: 0;
+    }
+
+    #errorpage .broken-right p {
+        line-height: 60px;
+        font-size: 40px;
+        padding-bottom: 15px;
+    }
+
+    #errorpage .broken-right p:nth-child(2) {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    #errorpage .broken-left img {
+        width: 90%;
+    }
+
+    /* --------------------404 error page css end ----------------------*/
+}
+
+@media (min-width: 768px) and (max-width :991.98px) {
+
+    /*------------------ banner part css start------------------- */
+    .slider-text {
+        padding-top: calc(50vh - 100px);
+    }
+
+
+    .slider_list {
+        padding: 0;
+        padding-top: 0;
+    }
+
+    .cf-nav-sticky {
+        padding: 0;
+    }
+    .my_nav{
+        text-align: center;
+    }
+
+    #background_main i {
+        background: #fff;
+        color: 0, 0, 0, .5;
+        color: rgba(0, 0, 0, .5);
+        border-color: rgba(0, 0, 0.1);
+        padding: 0.25rem 0.75rem;
+        font-size: 2rem;
+        border-radius: .25rem;
+        border: 1px solid transparent;
+        margin-right: -5px;
+        line-height: 1;
+    }
+
+    .my_nav ul li a {
+        font-size: 13px;
+    }
+
+    .slider-text .content h2 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+
+    .slider-text .content h2::after {
+        width: 20%;
+    }
+
+    .slider-text h3 {
+        line-height: 30px;
+        font-size: 35px;
+    }
+
+    .slider-text .content p {
+        padding: 10px 10px 10px 0;
+    }
+
+    .slider-text button {
+        font-size: 14px;
+        font-weight: 400;
+        padding: 5px 10px;
+        margin: 20px 0;
+    }
+
+    .slider-arrows {
+        top: calc(100vh - 60px);
+        right: 50%;
+        transform: translate(50%, 0);
+    }
+
+    /*------------------ banner part css end------------------- */
+
+    /*--------------- about us part start ------------------*/
+    .about-us .col-right h2 {
+        font-size: 35px;
+        line-height: 40px;
+        margin-top: 0;
+    }
+
+    .about-us .col-right h3 {
+        font-size: 35px;
+        line-height: 15px;
+    }
+
+    .about-us {
+        padding: 50px 0 0;
+    }
+
+    .about-us .col-right h3 {
+        margin-left: 240px;
+    }
+
+    .about-us .col-right .headline {
+        text-align: center;
+    }
+
+    .about-us .col-right p {
+        text-align: center;
+    }
+
+    .about-us .col-right .phone p,
+    .about-us .col-right .days p,
+    .about-us .col-right .hours p {
+        font-size: 20px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        line-height: 10px;
+        color: #a9a9a9;
+        margin-bottom: 20px;
+    }
+
+    /*--------------- about us part start ------------------*/
+
+    /* ------------------special part css start------------------ */
+
+    .menu-category button {
+        display: inline-block;
+        padding: 3px 10px;
+        margin-top: 15px;
+        font-size: 16px
+    }
+
+    .special-menu-tabs .col-lefts h3 {
+        font-size: 25px;
+        line-height: 30px;
+        font-weight: 500;
+    }
+
+    .menu-category {
+        padding-bottom: 25px;
+        text-align: center;
+    }
+
+    #section1 .content {
+        left: 19px;
+    }
+
+    #section1 .content h3 {
+        font-size: 35px;
+        line-height: 15px;
+        padding-bottom: 10px;
+    }
+
+    .foreground img {
+        width: 80px;
+        padding: 10px 0;
+        z-index: 99;
+    }
+
+    #section1 {
+        min-height: 350px;
+    }
+
+    #section1 .content p {
+        padding: 0 5px;
+
+    }
+
+    #section1 .content .price {
+        font-size: 21px;
+        line-height: 25px;
+    }
+
+    .special-menu-tabs .col-lefts {
+        margin-top: 0px;
+    }
+
+    .special .content h2 {
+        font-size: 35px;
+        line-height: 45px;
+
+    }
+
+    .special .content h3 {
+        font-size: 45px;
+        line-height: 35px;
+        padding-bottom: 15px;
+    }
+
+    .special-menu-tabs-master {
+        padding: 0 0;
+    }
+
+    /* ------------------special part css end------------------ */
+    /*---------------------- about us part css start------------------- */
+    .about-us .col-right {
+        padding: 0;
+    }
+
+    .about-us .col-right h2::after {
+        width: 8%;
+    }
+
+    .about-us .col-right h2 {
+        margin-left: 245px;
+    }
+
+    .about-us .col-right img {
+        margin-left: 310px;
+    }
+
+    .col-left {
+        height: 805px;
+        background-size: auto 100%;
+        background-position: center;
+        right: 0;
+        bottom: 0;
+    }
+
+    .col-left img {
+        bottom: 65px;
+        width: 330px;
+        right: 115px;
+    }
+
+    .about-us .col-right .phone p:nth-child(2),
+    .about-us .col-right .days p:nth-child(2),
+    .about-us .col-right .hours p:nth-child(2) {
+        font-size: 22px;
+    }
+
+    /*---------------------- about us part css end------------------- */
+
+    /* ---------------book a table part css start------------------ */
+    .book-table .content h2 {
+        font-size: 30px;
+        line-height: 36px;
+        margin-top: 0;
+    }
+
+    .book-table .content h3 {
+        font-size: 30px;
+        line-height: 30px;
+        padding-bottom: 0;
+    }
+
+    .book-table .from-part .content {
+        padding: 20px;
+        width: 100%;
+        top: 50%;
+        left: -25px;
+        transform: translate(0, -50%);
+        z-index: 99;
+    }
+
+    .book-table .booked-table {
+        padding: 170px 0;
+    }
+
+    .book-table {
+        padding-bottom: 0;
+    }
+
+    /* ---------------book a table part css end------------------ */
+    /* -------------------testmonial part css start--------------- */
+    .testimonial h2 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+
+    .testimonial h3 {
+        font-size: 35px;
+        line-height: 15px;
+        padding-bottom: 15px;
+    }
+
+    .testimonial-slider-arrows .testimonial-right {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        right: 60px;
+    }
+
+    .testimonial-slider-arrows .testimonial-left {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 60px;
+    }
+
+    /* -------------------testmonial part css end--------------- */
+
+
+    /*---------------- chefs part css start--------------- */
+    .chefs .content h2 {
+        padding-bottom: 0;
+
+    }
+    .chefs .content h3 {
+        font-size: 35px;
+        line-height: 15px;
+        padding-bottom: 15px;
+    }
+
+    /*---------------- newsletter part css start--------------- */
+    .newsletter .left_part h2 {
+        font-size: 30px;
+        line-height: 36px;
+        font-family: 'Great Vibes', cursive;
+        color: #f15f2a;
+        overflow: hidden;
+    }
+
+    .newsletter .left_part h3 {
+        font-size: 28px;
+        line-height: 30px;
+        padding-bottom: 0;
+    }
+
+    .newsletter .left_part img {
+        width: 80px;
+    }
+
+    .newsletter .content .form-control {
+        border-color: #000;
+    }
+
+    .newsletter .content .btn {
+        margin-left: 80px;
+        margin-top: 15px;
+    }
+
+    /*---------------- newsletter part css end--------------- */
+    /*---------------- chefs part css end--------------- */
+
+
+    /*------------------- menu page css start------------------- */
+    #menupage_part .foreground .content {
+        margin-bottom: 0;
+    }
+
+    /*------------------- menu page css end------------------- */
+
+    /*------------------ contact us page css start ------------*/
+    #contact_form .foreground .content {
+        margin-bottom: 0;
+    }
+
+    /*------------------ contact us page css end ------------*/
+    /*----------------- 404 error page css start ----------------*/
+    #errorpage .foreground .content {
+        margin-bottom: -55px;
+        padding-bottom: -70px;
+    }
+
+    #errorpage .broken-left {
+        margin-top: -30px;
+        padding-bottom: 0;
+        padding-left: 0;
+    }
+
+    #errorpage .broken-left img {
+        width: 75%;
+    }
+
+    /*----------------- 404 error page css end ----------------*/
+  
+}
+
+
+@media (min-width :992px) and (max-width: 1179.98px) {
+
+    /*----------- navbar part css start------------------ */
+    .cf-nav .navbar {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .cf-nav-sticky {
+        padding: 8px 0;
+    }
+
+    .my_nav ul li a {
+        font-size: 13px;
+        margin: 0;
+    }
+
+    /*----------- navbar part css end------------------ */
+    /*----------- banner partt css start------------------ */
+    .content h2 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+
+    .slider-text .content h2::after {
+        width: 20%;
+    }
+
+    .slider-text h3 {
+        font-size: 35px;
+        line-height: 30px;
+    }
+
+    .slider-text .content p {
+        padding: 10px 10px 10px 0;
+    }
+
+    .slider-text {
+        padding-top: calc(50vh - 80px);
+    }
+
+    .slider_list {
+        bottom: -50px;
+        left: 60%;
+        padding: 10px;
+        padding-top: 0px;
+    }
+
+    .slider_list .title h2 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .slider_list .title h3 {
+        font-size: 20px;
+        line-height: 5px;
+    }
+
+    .slider_list .title img {
+        width: 25%;
+        padding: 10px 0;
+    }
+
+    .slider-arrows {
+        left: 44%;
+        margin-top: 160px;
+    }
+
+    /*----------- banner partt css end------------------ */
+    /*----------- about us part css start------------------ */
+    .about-us {
+        padding: 50px 0 0;
+    }
+
+    .col-left {
+        height: 642px;
+        right: 0;
+        bottom: -75px;
+    }
+
+    .col-left img {
+        top: 80%;
+        left: 40%;
+        width: 260px;
+    }
+
+    .about-us .col-right h2 {
+        font-size: 35px;
+        line-height: 40px;
+        margin-top: 0;
+    }
+
+    .about-us .col-right h3 {
+        font-size: 45px;
+        line-height: 20px;
+        padding-bottom: 10px;
+    }
+
+    .about-us .col-right img {
+        width: 90px;
+    }
+
+    .about-us .col-right .headline {
+        font-size: 18px;
+        padding-top: 10px;
+        margin-bottom: 5px;
+    }
+
+    #aboutus_page .about-us .col-right {
+        padding: 25px 0 0px 10px;
+    }
+
+    .about-us .col-right .phone p:nth-child(2),
+    .about-us .col-right .days p:nth-child(2),
+    .about-us .col-right .hours p:nth-child(2) {
+        font-size: 25px;
+        line-height: 5px;
+        padding-bottom: 10px;
+    }
+
+    /*----------- about us part css end------------------ */
+    /*----------- special part css start------------------ */
+    .special-menu-tabs-master {
+        padding: 0;
+    }
+
+    .menu-category button {
+        display: inline-block;
+        padding: 3px 10px;
+        margin-top: 15px;
+        font-size: 16px;
+    }
+
+    .menu-category {
+        padding-top: 5px;
+        padding-bottom: 25px;
+        text-align: center;
+    }
+
+    /*----------- special part css end------------------ */
+    /*----------- book a table part css start------------------ */
+    .book-table .booked-table {
+        padding: 175px 0;
+    }
+
+    .book-table .content h2 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+
+    .book-table .content h3 {
+        font-size: 50px;
+        line-height: 35px;
+        padding-bottom: 15px;
+    }
+
+    .book-table .from-part .content h3 {
+        letter-spacing: 2px;
+    }
+
+    /*----------- book a table part css end------------------ */
+
+    /* ----------------special part css start --------------------*/
+    #section1 {
+        min-height: 500px;
+    }
+
+    .special-menu-tabs .col-lefts h3 {
+        font-size: 25px;
+        line-height: 30px;
+        font-weight: 500px;
+    }
+
+    #section1 .content {
+        left: 17%;
+    }
+
+    /* ----------------special part css end --------------------*/
+
+    /*--------------------- chefs part css start------------------ */
+    .chefs {
+        padding: 30px 0 60px;
+    }
+
+    .chefs .content img {
+        padding-top: 15px;
+    }
+
+    /*--------------------- chefs part css end------------------ */
+
+    /* ---------------------about us page css start------------------------*/
+    #aboutus_page .col-left {
+        bottom: -60px;
+        height: 665px;
+    }
+
+    /* ---------------------about us page css end------------------------*/
+    /*------------------------ 404 error page css start ------------------------*/
+    #errorpage .broken-left img {
+        width: 75%;
+    }
+
+    #errorpage .broken-left {
+        padding-bottom: 0;
+        padding-left: 0;
+    }
+
+    #errorpage .broken-right p {
+        line-height: 60px;
+        font-size: 50px;
+        padding-bottom: 10px;
+        padding-right: 50px;
+    }
+
+    #errorpage .broken-right {
+        margin: auto;
+        text-align: center;
+        padding: 40px 0 70px;
+    }
+
+    #errorpage .all-btn {
+        padding: 6px 15px;
+        font-size: 14px;
+        margin: auto;
+    }
+
+    #errorpage .broken-right p:nth-child(2) {
+        padding: 0 30px 20px 30px;
+    }
+
+    #errorpage .broken-right p:nth-child(2) {
+        font-size: 18px;
+    }
+
+    /*------------------------ 404 error page css end ------------------------*/
+}
+
+@media (max-width: 320px) {
+
+    /* ----------------about us part css start------------------- */
+    .about-us .col-right h2 {
+        margin-left: 80px;
+    }
+
+    .about-us .col-right img {
+        margin-left: 120px;
+    }
+
+    .col-left {
+        height: 400px;
+        background-size: auto 100%;
+        background-position: center;
+        right: 0;
+    }
+
+    /* ----------------about us part css end------------------- */
+
+    /* ----------------special part css start------------------- */
+    .special-menu-tabs-master {
+        padding: 0px 0px;
+    }
+
+    /* ----------------special part css end------------------- */
+
+    /* ----------------testmonial part css start------------------- */
+    .testimonial-slider-arrows .testimonial-left {
+        top: 95%;
+        left: 35%;
+    }
+
+    .testimonial-slider-arrows .testimonial-right {
+        top: 95%;
+        right: 35%;
+
+    }
+
+    .star {
+        padding-top: 15px;
+    }
+
+    /* ----------------testmonial part css end------------------- */
+
+    /*----------------------- book a table part css start----------------*/
+    .book-table {
+        padding-bottom: 340px;
+    }
+
+    .book-table .content h2 {
+        font-size: 30px;
+        line-height: 36px;
+        margin-top: 0;
+    }
+
+    .book-table .content h3 {
+        font-size: 30px;
+        line-height: 30px;
+        padding-bottom: 0;
+        margin-top: 15px;
+    }
+
+    .book-table .from-part .content {
+        margin: auto;
+        padding: 0 12px;
+        width: 92%;
+        top: 0;
+        left: 30px;
+        transform: translate(0, 0%);
+    }
+
+    .book-table .booked-table {
+        padding: 65px 0 85px;
+        clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 100%, 0 100%);
+    }
+
+    /*----------------------- book a table part css end----------------*/
+    /*----------------------- chefs part part css start----------------*/
+    .chefs .content h3 {
+        font-size: 28px;
+        line-height: 30px;
+        padding-bottom: 0;
+    }
+
+    /*----------------------- chefs part part css end----------------*/
+    /* --------------------newsletter part css start--------------------*/
+    .newsletter .left_part h2 {
+        font-size: 30px;
+        line-height: 36px;
+        margin-top: 0;
+
+    }
+
+    .newsletter .left_part h3 {
+        font-size: 28px;
+        line-height: 30px;
+        padding-bottom: 0;
+    }
+
+    .newsletter .left_part p {
+        font-size: 17px;
+        line-height: 28px;
+        letter-spacing: 2px;
+        padding: 20px 10px;
+    }
+
+    .newsletter .content .form-control {
+        width: 160px;
+        height: 50px;
+        background: #000;
+        border-right: none;
+        margin-bottom: 10px;
+        border: 2px solid #000;
+        height: 50px;
+    }
+
+    .newsletter .content .btn {
+        padding: 0 19px;
+        margin-left: 45px;
+    }
+
+    /* --------------------newsletter part css end--------------------*/
+    /* --------------------footer part css start--------------------*/
+    .footer .logo {
+        padding-bottom: 25px;
+    }
+
+    .footer-bottom .bottom-left {
+        text-align: center;
+    }
+
+    .footer .social ul li ul li {
+        padding: 15px 10px 0 14px !important;
+    }
+
+    .footer .footer-menu {
+        padding-top: 30px;
+    }
+
+    .footer .footer-menu ul li a {
+        line-height: 22px;
+    }
+
+    .contact-way {
+        padding-top: 35px;
+    }
+
+    .footer-from {
+        padding-top: 30px;
+    }
+
+    /* --------------------footer part css start--------------------*/
+
+
+}
+
+@media (max-width: 768px) {
+
+    /*--------------- navbar part css start------------------ */
+    #background_main i {
+        background: #fff;
+        color: 0, 0, 0, .5;
+        color: rgba(0, 0, 0, .5);
+        border-color: rgba(0, 0, 0.1);
+        padding: 0.25rem 0.75rem;
+        font-size: 2rem;
+        border-radius: .25rem;
+        border: 1px solid transparent;
+        margin-right: -5px;
+        line-height: 1;
+    }
+
+    .my_nav ul {
+        background: #000;
+    }
+
+    .my_nav ul li {
+        margin: 0 50px;
+        text-align: center;
+    }
+
+    .my_nav ul li a::after {
+        background: transparent;
+    }
+
+    .my_nav ul li a {
+        font-size: 14px;
+        font-weight: 700;
+    }
+
+    .menu img {
+        width: 60px;
+    }
+
+    /*--------------- navbar part css end------------------ */
+
+    /*--------------------- banner part css start------------ */
+
+    .slider-text h3 {
+        font-size: 30px;
+    }
+
+    .slider-text h2 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .slider-text .content h2::after {
+        width: 20%;
+    }
+
+    .slider-text .content p {
+        padding: 10px 10px 10px 0;
+    }
+
+    .slider-text button {
+        font-size: 14px;
+        font-weight: 400;
+        padding: 5px 10px;
+        margin-top: 20px;
+    }
+
+    .slider_list .title h3 {
+        font-size: 20px;
+        line-height: 5px;
+    }
+
+    .slider_list .title h2 {
+        font-size: 25px;
+        line-height: 30px;
+        padding: 10px 0;
+    }
+
+    .slider_list .title img {
+        width: 25%;
+        padding: 10px 0;
+    }
+
+    .slider_items ul {
+        margin-bottom: 5px;
+    }
+
+    .slider-arrows {
+        top: calc(100vh - 60px);
+        right: 50%;
+        transform: translate(50%, 0);
+    }
+
+    /*--------------------- banner part css end------------ */
+
+    /* -----------------about us part css start------------- */
+
+    .about-us .col-right h3 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .about-us .col-right img {
+        width: 80px;
+
+    }
+
+    .about-us .col-right h2::after {
+        width: 12%;
+    }
+
+    /* 
+    .about-us .col-right h3 {
+        text-align: center;
+    } */
+
+    .about-us .col-right .headline {
+        font-size: 15px;
+        text-align: center;
+    }
+
+    .about-us .col-right p {
+        font-size: 16px;
+        text-align: center;
+    }
+
+    /* -----------------about us part css start------------- */
+    /* -----------------special part css start------------- */
+    .special-menu-tabs-master {
+        padding: 0 0;
+    }
+
+    /* -----------------special part css end----------- */
+
+    /* -----------------cheft part css start----------- */
+
+    .chefs {
+        padding: 20px 0;
+        ;
+    }
+
+    /* -----------------cheft part css end----------- */
+    /*--------------------- newsletter part css start----------------- */
+    .newsletter .left_part h2 {
+        font-size: 30px;
+        line-height: 36px;
+    }
+
+    .newsletter .left_part h3 {
+        font-size: 28px;
+        line-height: 30px;
+        padding-bottom: 0;
+    }
+
+    .newsletter .left_part {
+        padding: 50px 0;
+    }
+
+    /*--------------------- newsletter part css end----------------- */
+}
